@@ -1,0 +1,31 @@
+body{
+  background: #b0e0e6;
+}
+#firstH1{
+  border-style:groove;
+}
+#firstp{
+  color:red;
+  background-color: yellow;
+}
+#Firsth3{
+  color: purple;
+}
+#FirstL{
+  color: purple;
+  text-decoration: overline;
+}
+#secondL{
+  color: Blue;
+}
+#p2{
+  color: purple;
+}
+#p3{
+  background-color: yellow;
+}
+#textbloc2{
+  background-color: white;
+  text-decoration: overline;
+  border: dotted;j
+}
